@@ -1,0 +1,12 @@
+{
+  "name": "angular-9---essencial---cod3r",
+  "version": "1.0.0",
+  "description": "- npm: gerenciar as dependências do projeto\r - JsonServer: ele lê um arquivo que tem um json e cria uma API baseada nele\r - TypeScript: linguagem para o angular. Eles posteriormente converte para JS, HTML e CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
